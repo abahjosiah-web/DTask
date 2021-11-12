@@ -1,5 +1,5 @@
 ## libigl example project
-used of the libigl example project as template for this project
+used libigl example project as template for this project
 
 ## libigl
 
