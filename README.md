@@ -23,7 +23,7 @@ Compile this project using the standard cmake routine:
     make
 
 ## 
-Developed and tested using Visual Studio 22 RC.
+tested using Visual Studio 22 RC.
 
 ##
 was only able to do the subdivision part: run the app, the first view is the original, then press 2 to view 
