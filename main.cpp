@@ -13,7 +13,7 @@ int main(int argc, char* argv[])
     Eigen::MatrixXd OV, V;
     bool show_swept_volume = false;
 
-    igl::readOBJ("/Users/ABAH JOSIAH ABAH/source/repos/DTask/appleseed-shaderball-v5.obj", OV, OF);
+    igl::readOBJ("[...edit path]/appleseed-shaderball-v5.obj", OV, OF);
 
     V = OV;
     F = OF;
